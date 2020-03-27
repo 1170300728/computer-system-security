@@ -1,0 +1,1 @@
+SELECT * FROM zhongmai_science.manager;
